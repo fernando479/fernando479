@@ -22,6 +22,3 @@
 <div align="center">
 <p> En este repositorio encontrarán algunos proyectos en los cuales he participado dentro de mi vida Universitaria. <br></p>
 </div>
-
-# Contacto:
-fernando.ruiz02@alumnos.uach.cl
